@@ -1,0 +1,9 @@
+node_modules
+.env
+
+
+npm start para abrir a porta localhost 3333
+npm run dev para atualizar " automaticamente"
+
+
+hash f74fcb19a128c35bf2565e3ec27dbdc4 = Senha1347111829
